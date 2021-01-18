@@ -1,1 +1,9 @@
-# Big_data_technology-
+# Big_data_technology
+
+### hadoop
+
+### hive
+
+### spark
+
+### flink
